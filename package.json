@@ -1,0 +1,32 @@
+{
+  "name": "crack-coding-interview",
+  "version": "1.0.0",
+  "description": "Solution for crack the coding interview books",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luongnv89/crack-coding-interview.git"
+  },
+  "keywords": [
+    "coding",
+    "interview",
+    "nodejs",
+    "algorithm",
+    "data",
+    "structure"
+  ],
+  "author": "Luong NGUYEN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luongnv89/crack-coding-interview/issues"
+  },
+  "homepage": "https://github.com/luongnv89/crack-coding-interview#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
